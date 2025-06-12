@@ -1,6 +1,6 @@
 # 🎵 Spotify Clone
 
-A responsive front-end clone of the popular music streaming platform *Spotify**, built using HTML, CSS, and Bootstrap**. This project replicates the look and feel of the Spotify web UI, focusing on layout, styling, and responsiveness.
+A responsive front-end clone of the popular music streaming platform Spotify, built using HTML, CSS, and Bootstrap. This project replicates the look and feel of the Spotify web UI, focusing on layout, styling, and responsiveness.
 
 ## 🚀 Features
 
@@ -19,9 +19,4 @@ A responsive front-end clone of the popular music streaming platform *Spotify**,
 - CSS3
 - Bootstrap 5
 
-## 📸 Screenshots
-
-(Add screenshots here if available)
-
-## 📂 Folder Structure
 
